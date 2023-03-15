@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   });
 
   document.querySelector("#btnLearn").addEventListener("click", (event) => {
-    location.href = "https://frontendmasters.com";
+    location.href = "https://web.dev/";
   });
 
   let bipEvent = null;
